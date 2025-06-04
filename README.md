@@ -65,7 +65,7 @@ python login.py
 You’ll see the login screen. Use:
 
 ```
-Username: Yogesh
+Username: Yogesh #default_user_name
 Password: 1234
 ```
 
@@ -97,24 +97,11 @@ StudentManagementSystem/
 
 ---
 
-## 📦 Packaging to .exe (Optional for Windows)
-
-Convert the app into a standalone `.exe` using **PyInstaller**:
-
-```bash
-pip install pyinstaller
-pyinstaller --noconfirm --windowed --add-data "bg.jpg;." --add-data "logo.png;." --add-data "user.png;." --add-data "password.png;." login.py
-```
-
-Output will be in the `dist/` folder.
-
----
-
 ## 👨‍💻 Developer Info
 
 * **Name**: Vadla Yogeshwar
 * **Specialization**: B.Tech - Data Science
-* **Passionate** about building real-world intelligent systems
+* **Passionate** about building real-world intelligent systems and Learning new technologies
 
 ---
 
@@ -128,8 +115,8 @@ This project is open-source and free to use for educational and non-commercial p
 
 Have suggestions or want to collaborate?
 
-* GitHub: [YOUR\_PROFILE\_LINK](https://github.com/YOUR_USERNAME)
-* Email: [vadlayogeshwar@gmail.com](mailto:vadlayogeshwar@gmail.com) *(example)*
+* GitHub:(https://github.com/Yogeshwarypl/Student_Management_System_Using_Python_Custom_Tkinter)
+* Email: [yogeshwarvadlap22c@gmail.com](mailto:yogeshwarvadlap22c@gmail.com)
 
 ---
 
@@ -138,11 +125,3 @@ Have suggestions or want to collaborate?
 ```
 
 ---
-
-## 📝 Don't forget to:
-
-- Replace `YOUR_USERNAME` with your actual GitHub username
-- Change the email link if needed
-
-Would you like a zip of the GitHub-ready folder with this README and requirements.txt included?
-```
