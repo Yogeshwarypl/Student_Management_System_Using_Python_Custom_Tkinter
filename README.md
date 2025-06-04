@@ -32,6 +32,7 @@ A full-featured **Student Management System** built with **Python** using **Cust
 - Python 3.8+
 - MySQL server (e.g. XAMPP, WAMP, standalone)
 - The following Python packages (installed below)
+     Refere the `requirements.txt`
 
 ---
 
@@ -123,5 +124,3 @@ Have suggestions or want to collaborate?
 **🚀 Give a ⭐ on GitHub if this helped you!**
 
 ```
-
----
