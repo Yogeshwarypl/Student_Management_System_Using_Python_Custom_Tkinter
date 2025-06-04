@@ -2,7 +2,7 @@
 
 ---
 
-### 1. Discription of `README.md` Student Management System
+### Discription of `README.md` Student Management System
 
 ````markdown
 # 🎓 Student Management System - Desktop Application
@@ -34,16 +34,16 @@ A full-featured **Student Management System** built with **Python** using **Cust
 - The following Python packages (installed below)
      Refere the `requirements.txt`
 
+````
 ---
 
 ## Installation
-
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/StudentManagementSystem.git
 cd StudentManagementSystem
-````
+```
 
 ### 2. Install Required Libraries
 
