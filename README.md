@@ -35,7 +35,7 @@ A full-featured **Student Management System** built with **Python** using **Cust
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the Repository
 
