@@ -2,7 +2,7 @@
 
 ---
 
-### ✅ `README.md` (Copy and paste this file into your project root)
+### 1. Discription of `README.md` Student Management System
 
 ````markdown
 # 🎓 Student Management System - Desktop Application
