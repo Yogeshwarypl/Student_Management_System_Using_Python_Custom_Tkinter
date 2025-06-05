@@ -122,5 +122,3 @@ Have suggestions or want to collaborate?
 ---
 
 **🚀 Give a ⭐ on GitHub if this helped you!**
-
-```
