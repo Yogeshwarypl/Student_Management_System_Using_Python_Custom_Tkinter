@@ -41,8 +41,8 @@ A full-featured **Student Management System** built with **Python** using **Cust
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/StudentManagementSystem.git
-cd StudentManagementSystem
+git clone https://github.com/Yogeshwarypl/Student_Management_System_Using_Python_Custom_Tkinter.git
+cd Student_Management_System_Using_Python_Custom_Tkinter
 ```
 
 ### 2. Install Required Libraries
@@ -122,3 +122,4 @@ Have suggestions or want to collaborate?
 ---
 
 **🚀 Give a ⭐ on GitHub if this helped you!**
+
